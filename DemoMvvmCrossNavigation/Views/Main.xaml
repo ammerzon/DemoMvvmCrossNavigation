@@ -9,7 +9,7 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-        <TextBlock Text="Main"></TextBlock>
+        <TextBlock Text="Main" />
         <Button Click="ShowDetail_OnClick">Show detail</Button>
     </Grid>
 </views:MainAbstract>
